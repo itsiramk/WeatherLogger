@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherLogger</string>
+    <string name="temperature">Temperature : </string>
+    <string name="date">Date : </string>
+    <string name="more_details">More Details...</string>
+    <string name="network_error">Please connect to Network!!!</string>
+    <string name="save_click">Click on Save Button\nto fetch current temperature</string>
+    <string name="perm_granted">Permission granted successfully</string>
+    <string name="perm_request">Please permit the permission through Settings screen.\nSelect Permissions -> Enable permission></string>
+    <string name="perm_manual">Permit Manually</string>
+</resources>
